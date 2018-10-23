@@ -1,0 +1,27 @@
+{
+  "name": "webscrot",
+  "version": "1.0.0",
+  "description": "need to use puppeteer to make a screenshot and not just use plain scrot and you also want chromium to render the html? here you go buddy",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weston-Boldt/webscrot.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "screensho"
+  ],
+  "author": "weston boldt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weston-Boldt/webscrot/issues"
+  },
+  "homepage": "https://github.com/Weston-Boldt/webscrot#readme"
+}
